@@ -41,8 +41,8 @@
 * RENAME TABLE: Changes the name of a table.
 * Constraints: PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL, CHECK
 6. Data Control Language (DCL)
-GRANT: Gives specific permissions to users.
-REVOKE: Removes specific permissions from users.
+* GRANT: Gives specific permissions to users.
+* REVOKE: Removes specific permissions from users.
 7. Transaction Control Language (TCL)
 * BEGIN/START TRANSACTION: Begins a transaction.
 * COMMIT: Saves the transaction changes.
